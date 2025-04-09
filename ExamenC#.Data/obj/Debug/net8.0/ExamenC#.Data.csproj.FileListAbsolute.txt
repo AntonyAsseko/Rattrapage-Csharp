@@ -1,0 +1,11 @@
+C:\Users\hp\ExamenC#\ExamenC#.Data\bin\Debug\net8.0\ExamenC#.Data.deps.json
+C:\Users\hp\ExamenC#\ExamenC#.Data\bin\Debug\net8.0\ExamenC#.Data.dll
+C:\Users\hp\ExamenC#\ExamenC#.Data\bin\Debug\net8.0\ExamenC#.Data.pdb
+C:\Users\hp\ExamenC#\ExamenC#.Data\obj\Debug\net8.0\ExamenC#.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\ExamenC#\ExamenC#.Data\obj\Debug\net8.0\ExamenC#.Data.AssemblyInfoInputs.cache
+C:\Users\hp\ExamenC#\ExamenC#.Data\obj\Debug\net8.0\ExamenC#.Data.AssemblyInfo.cs
+C:\Users\hp\ExamenC#\ExamenC#.Data\obj\Debug\net8.0\ExamenC#.Data.csproj.CoreCompileInputs.cache
+C:\Users\hp\ExamenC#\ExamenC#.Data\obj\Debug\net8.0\ExamenC#.Data.dll
+C:\Users\hp\ExamenC#\ExamenC#.Data\obj\Debug\net8.0\refint\ExamenC#.Data.dll
+C:\Users\hp\ExamenC#\ExamenC#.Data\obj\Debug\net8.0\ExamenC#.Data.pdb
+C:\Users\hp\ExamenC#\ExamenC#.Data\obj\Debug\net8.0\ref\ExamenC#.Data.dll
