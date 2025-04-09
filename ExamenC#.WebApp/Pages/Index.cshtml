@@ -1,10 +1,32 @@
 ﻿@page
-@model IndexModel
 @{
     ViewData["Title"] = "Home page";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+@model IEnumerable<ExamenCSharp.Core.Models.Client>
+
+<h2>Liste des Clients</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Matricule</th>
+            <th>Nom</th>
+            <th>Prénom</th>
+            <th>Nombre de Numéros</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var client in Model)
+        {
+            <tr>
+                <td>@client.Matricule</td>
+                <td>@client.Nom</td>
+                <td>@client.Prenom</td>
+                <td>@client.NumerosTelephone.Count</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-action="Create">Ajouter un Client</a>
